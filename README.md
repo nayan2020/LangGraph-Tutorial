@@ -25,8 +25,10 @@ Using `venv`:
 
 ```sh copy
 uv venv
+# On linux: 
 source .venv/bin/activate  
-# On Windows: .venv\Scripts\activate
+# On Windows: 
+.venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
